@@ -5,7 +5,8 @@
     "environment": "github-actions",
     "timeout_ms": 15000,
     "concurrency": 4,
-    "max_attempts": 2
+    "max_attempts": 2,
+    "time_zone": "Asia/Shanghai"
   },
   "results": [
     {

@@ -7,6 +7,7 @@ const readmePath = new URL("README.md", root);
 const timeoutMs = Number(process.env.CHECK_TIMEOUT_MS ?? 15000);
 const concurrency = Number(process.env.CHECK_CONCURRENCY ?? 4);
 const maxAttempts = Number(process.env.CHECK_MAX_ATTEMPTS ?? 2);
+const timeZone = process.env.CHECK_TIME_ZONE ?? "Asia/Shanghai";
 const userAgent =
   "awesome-zhuiju-free-monitor/1.0 (+https://github.com/laoma2053/awesome-zhuiju-free)";
 
@@ -31,6 +32,18 @@ function displayStatus(status) {
 
 function displayDate(date) {
   return date.replaceAll("-", "&#8209;");
+}
+
+function dateInTimeZone(date, zone) {
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: zone,
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  })
+    .formatToParts(date)
+    .reduce((result, part) => ({ ...result, [part.type]: part.value }), {});
+  return `${parts.year}-${parts.month}-${parts.day}`;
 }
 
 async function checkResource(resource) {
@@ -119,7 +132,7 @@ const resourcesData = JSON.parse(await readFile(resourcesPath, "utf8"));
 const featuredResources = resourcesData.resources.filter((resource) => resource.featured);
 const results = await mapConcurrent(featuredResources, concurrency, checkResource);
 const generatedAt = new Date().toISOString();
-const generatedDate = generatedAt.slice(0, 10);
+const generatedDate = dateInTimeZone(new Date(generatedAt), timeZone);
 
 const availability = {
   version: 1,
@@ -128,7 +141,8 @@ const availability = {
     environment: process.env.GITHUB_ACTIONS === "true" ? "github-actions" : "local",
     timeout_ms: timeoutMs,
     concurrency,
-    max_attempts: maxAttempts
+    max_attempts: maxAttempts,
+    time_zone: timeZone
   },
   results
 };
