@@ -160,9 +160,6 @@ function categorySection(category, resources, availabilityById) {
 
   if (categoryResources.length > 0) {
     content = tableFor(categoryResources, availabilityById);
-  } else if (category.id === "membership") {
-    content =
-      "_等待首条通过验证的精选资源。仅收录规则透明、风险明确的会员拼团信息。_";
   } else {
     content =
       "_等待首条通过验证的精选资源。你可以 [推荐一个资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)。_";

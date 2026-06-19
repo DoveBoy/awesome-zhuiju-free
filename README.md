@@ -347,7 +347,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 
 ### 会员拼团
 
-_等待首条通过验证的精选资源。仅收录规则透明、风险明确的会员拼团信息。_
+_等待首条通过验证的精选资源。你可以 [推荐一个资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)。_
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 <!-- featured-resources:end -->
