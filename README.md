@@ -9,7 +9,7 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-2563eb?style=for-the-badge" alt="网站 zhuiju.me"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-31_个资源-0f766e?style=for-the-badge" alt="已收录 31 个资源"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-40_个资源-0f766e?style=for-the-badge" alt="已收录 40 个资源"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/可用性检测-每日执行-f59e0b?style=for-the-badge" alt="可用性检测 每日执行"></a>
 </p>
@@ -35,7 +35,7 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-3-d97706?style=flat-square" alt="字幕资源"></a>
   <a href="#tvbox播放器"><img src="https://img.shields.io/badge/TVbox播放器-1-059669?style=flat-square" alt="TVbox播放器"></a>
   <a href="#订阅源"><img src="https://img.shields.io/badge/订阅源-1-db2777?style=flat-square" alt="订阅源"></a>
-  <a href="#影视仓配置地址"><img src="https://img.shields.io/badge/影视仓配置-0-0891b2?style=flat-square" alt="影视仓配置地址"></a>
+  <a href="#影视仓配置地址"><img src="https://img.shields.io/badge/影视仓配置-9-0891b2?style=flat-square" alt="影视仓配置地址"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-64748b?style=flat-square" alt="会员拼团"></a>
   <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-7-0f172a?style=flat-square" alt="开源项目"></a>
 </p>
@@ -335,7 +335,82 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 
 ### 影视仓配置地址
 
-_等待首条通过验证的精选资源。你可以 [推荐一个资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)。_
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%" nowrap>资源</th>
+      <th width="30%" nowrap>简介</th>
+      <th width="20%" nowrap>推荐指数</th>
+      <th width="15%" nowrap>状&#8288;态</th>
+      <th width="15%" nowrap>检测时间</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td nowrap>饭太硬</td>
+      <td><pre><code>http://www.饭太硬.com/tv</code></pre></td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:fan-tai-ying -->⚪&#8288;未&#8288;检测<!-- /availability:fan-tai-ying --></td>
+      <td align="center" nowrap><!-- availability-date:fan-tai-ying -->2026&#8209;07&#8209;04<!-- /availability-date:fan-tai-ying --></td>
+    </tr>
+    <tr>
+      <td nowrap>肥猫</td>
+      <td><pre><code>http://xn--z7x900a.live/</code></pre></td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:fei-mao -->⚪&#8288;未&#8288;检测<!-- /availability:fei-mao --></td>
+      <td align="center" nowrap><!-- availability-date:fei-mao -->2026&#8209;07&#8209;04<!-- /availability-date:fei-mao --></td>
+    </tr>
+    <tr>
+      <td nowrap>骚零</td>
+      <td><pre><code>https://100km.top/0</code></pre></td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:sao-ling -->⚪&#8288;未&#8288;检测<!-- /availability:sao-ling --></td>
+      <td align="center" nowrap><!-- availability-date:sao-ling -->2026&#8209;07&#8209;04<!-- /availability-date:sao-ling --></td>
+    </tr>
+    <tr>
+      <td nowrap>蜂蜜</td>
+      <td><pre><code>https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/demo.json</code></pre></td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:feng-mi -->⚪&#8288;未&#8288;检测<!-- /availability:feng-mi --></td>
+      <td align="center" nowrap><!-- availability-date:feng-mi -->2026&#8209;07&#8209;04<!-- /availability-date:feng-mi --></td>
+    </tr>
+    <tr>
+      <td nowrap>小米</td>
+      <td><pre><code>https://3450.kstore.space/DEMO.json</code></pre></td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:xiao-mi -->⚪&#8288;未&#8288;检测<!-- /availability:xiao-mi --></td>
+      <td align="center" nowrap><!-- availability-date:xiao-mi -->2026&#8209;07&#8209;04<!-- /availability-date:xiao-mi --></td>
+    </tr>
+    <tr>
+      <td nowrap>OK佬1</td>
+      <td><pre><code>http://ok321.top/tv</code></pre></td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:ok-lao-1 -->⚪&#8288;未&#8288;检测<!-- /availability:ok-lao-1 --></td>
+      <td align="center" nowrap><!-- availability-date:ok-lao-1 -->2026&#8209;07&#8209;04<!-- /availability-date:ok-lao-1 --></td>
+    </tr>
+    <tr>
+      <td nowrap>OK佬2</td>
+      <td><pre><code>http://ok321.top/ok</code></pre></td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:ok-lao-2 -->⚪&#8288;未&#8288;检测<!-- /availability:ok-lao-2 --></td>
+      <td align="center" nowrap><!-- availability-date:ok-lao-2 -->2026&#8209;07&#8209;04<!-- /availability-date:ok-lao-2 --></td>
+    </tr>
+    <tr>
+      <td nowrap>牛蛙</td>
+      <td><pre><code>http://tvbox.xn--4kq62z5rby2qupq9ub.top/</code></pre></td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:niu-wa -->⚪&#8288;未&#8288;检测<!-- /availability:niu-wa --></td>
+      <td align="center" nowrap><!-- availability-date:niu-wa -->2026&#8209;07&#8209;04<!-- /availability-date:niu-wa --></td>
+    </tr>
+    <tr>
+      <td nowrap><a href="https://cyuan.netlify.app/" target="_blank" rel="noopener noreferrer">更多地址</a></td>
+      <td nowrap>影视仓播放源配置地址收集页</td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:more-tvbox-config-addresses -->⚪&#8288;未&#8288;检测<!-- /availability:more-tvbox-config-addresses --></td>
+      <td align="center" nowrap><!-- availability-date:more-tvbox-config-addresses -->2026&#8209;07&#8209;04<!-- /availability-date:more-tvbox-config-addresses --></td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 

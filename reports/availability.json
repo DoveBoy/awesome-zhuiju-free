@@ -272,6 +272,105 @@
       "checked_at": "2026-07-03T04:49:24.974Z",
       "attempts": 1,
       "error": null
+    },
+    {
+      "resource_id": "fan-tai-ying",
+      "url": "http://www.饭太硬.com/tv",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": 0,
+      "checked_at": "2026-07-04T00:00:00+08:00",
+      "attempts": 0,
+      "error": "pending automated check"
+    },
+    {
+      "resource_id": "fei-mao",
+      "url": "http://xn--z7x900a.live/",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": 0,
+      "checked_at": "2026-07-04T00:00:00+08:00",
+      "attempts": 0,
+      "error": "pending automated check"
+    },
+    {
+      "resource_id": "sao-ling",
+      "url": "https://100km.top/0",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": 0,
+      "checked_at": "2026-07-04T00:00:00+08:00",
+      "attempts": 0,
+      "error": "pending automated check"
+    },
+    {
+      "resource_id": "feng-mi",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/demo.json",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": 0,
+      "checked_at": "2026-07-04T00:00:00+08:00",
+      "attempts": 0,
+      "error": "pending automated check"
+    },
+    {
+      "resource_id": "xiao-mi",
+      "url": "https://3450.kstore.space/DEMO.json",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": 0,
+      "checked_at": "2026-07-04T00:00:00+08:00",
+      "attempts": 0,
+      "error": "pending automated check"
+    },
+    {
+      "resource_id": "ok-lao-1",
+      "url": "http://ok321.top/tv",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": 0,
+      "checked_at": "2026-07-04T00:00:00+08:00",
+      "attempts": 0,
+      "error": "pending automated check"
+    },
+    {
+      "resource_id": "ok-lao-2",
+      "url": "http://ok321.top/ok",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": 0,
+      "checked_at": "2026-07-04T00:00:00+08:00",
+      "attempts": 0,
+      "error": "pending automated check"
+    },
+    {
+      "resource_id": "niu-wa",
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": 0,
+      "checked_at": "2026-07-04T00:00:00+08:00",
+      "attempts": 0,
+      "error": "pending automated check"
+    },
+    {
+      "resource_id": "more-tvbox-config-addresses",
+      "url": "https://cyuan.netlify.app/",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": 0,
+      "checked_at": "2026-07-04T00:00:00+08:00",
+      "attempts": 0,
+      "error": "pending automated check"
     }
   ]
 }

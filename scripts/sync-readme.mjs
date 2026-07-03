@@ -125,16 +125,29 @@ function sortFeaturedResources(resources) {
   });
 }
 
-function tableFor(resources, availabilityById) {
+function tableFor(resources, availabilityById, options = {}) {
   const rows = resources
     .map((resource) => {
       const availability = availabilityById.get(resource.id);
       const status = statusDisplay(availability?.status ?? "unknown");
       const checkedAt = dateInTimeZone(availability?.checked_at);
+      const plainName =
+        typeof options.plainName === "function" ? options.plainName(resource) : options.plainName;
+      const showUrlInSummary =
+        typeof options.showUrlInSummary === "function"
+          ? options.showUrlInSummary(resource)
+          : options.showUrlInSummary;
+      const nameCell = plainName
+        ? escapeHtml(resource.name)
+        : `<a href="${escapeHtml(resource.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(resource.name)}</a>`;
+      const summaryCell = showUrlInSummary
+        ? `<pre><code>${escapeHtml(resource.url)}</code></pre>`
+        : escapeHtml(shortSummary(resource));
+      const summaryAttribute = showUrlInSummary ? "" : " nowrap";
 
       return `    <tr>
-      <td nowrap><a href="${escapeHtml(resource.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(resource.name)}</a></td>
-      <td nowrap>${escapeHtml(shortSummary(resource))}</td>
+      <td nowrap>${nameCell}</td>
+      <td${summaryAttribute}>${summaryCell}</td>
       <td align="center" nowrap>${recommendationStars(resource)}</td>
       <td align="center" nowrap><!-- availability:${resource.id} -->${status}<!-- /availability:${resource.id} --></td>
       <td align="center" nowrap><!-- availability-date:${resource.id} -->${checkedAt}<!-- /availability-date:${resource.id} --></td>
@@ -196,7 +209,12 @@ function categorySection(category, resources, availabilityById) {
     content =
       category.id === "open_source"
         ? openSourceTableFor(categoryResources)
-        : tableFor(categoryResources, availabilityById);
+        : tableFor(categoryResources, availabilityById, {
+            plainName: (resource) =>
+              category.id === "tvbox_config" && resource.id !== "more-tvbox-config-addresses",
+            showUrlInSummary: (resource) =>
+              category.id === "tvbox_config" && resource.id !== "more-tvbox-config-addresses"
+          });
   } else {
     content =
       "_等待首条通过验证的精选资源。你可以 [推荐一个资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)。_";

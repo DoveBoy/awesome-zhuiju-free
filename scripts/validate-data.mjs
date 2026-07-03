@@ -86,7 +86,17 @@ for (const [index, resource] of (resourcesData?.resources ?? []).entries()) {
     );
   }
   check(typeof resource.name === "string" && resource.name.length > 0, `${path}.name: required`);
-  check(typeof resource.url === "string" && resource.url.startsWith("https://"), `${path}.url: expected HTTPS URL`);
+  if (resource.category === "tvbox_config") {
+    check(
+      typeof resource.url === "string" && /^https?:\/\//.test(resource.url),
+      `${path}.url: expected HTTP or HTTPS URL for tvbox_config`
+    );
+  } else {
+    check(
+      typeof resource.url === "string" && resource.url.startsWith("https://"),
+      `${path}.url: expected HTTPS URL`
+    );
+  }
   check(categories.has(resource.category), `${path}.category: unknown category "${resource.category}"`);
   if (resource.category === "open_source") {
     check(typeof resource.github?.full_name === "string" && resource.github.full_name.includes("/"), `${path}.github.full_name: required for open source resources`);
