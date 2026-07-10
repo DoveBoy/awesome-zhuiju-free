@@ -99,6 +99,14 @@
           "minLength": 1,
           "maxLength": 40
         },
+        "platforms": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
         "tags": {
           "type": "array",
           "items": {

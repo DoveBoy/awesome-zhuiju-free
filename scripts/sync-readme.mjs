@@ -93,6 +93,11 @@ function shortSummary(resource) {
   return String(resource.summary_short ?? resource.summary).replace(/[。.!！]$/, "");
 }
 
+function recommendationStars(resource) {
+  const rating = recommendationRating(resource);
+  return Array.from({ length: rating }, () => "🌟").join("&#8288;");
+}
+
 function recommendationRating(resource) {
   const average =
     (resource.scores.more +
@@ -156,6 +161,7 @@ function sortFeaturedResources(resources, categoryId) {
 
 function tableFor(resources, availabilityById, options = {}) {
   const summaryHeading = options.summaryHeading ?? "简介";
+  const thirdHeading = options.thirdHeading ?? "推荐指数";
   const rows = resources
     .map((resource) => {
       const availability = availabilityById.get(resource.id);
@@ -174,10 +180,15 @@ function tableFor(resources, availabilityById, options = {}) {
         ? `<code>${breakableCode(resource.url)}</code>`
         : escapeHtml(shortSummary(resource));
       const summaryAttribute = showUrlInSummary ? "" : " nowrap";
+      const thirdCell =
+        typeof options.thirdCell === "function"
+          ? options.thirdCell(resource)
+          : recommendationStars(resource);
 
       return `    <tr>
       <td nowrap>${nameCell}</td>
       <td${summaryAttribute}>${summaryCell}</td>
+      <td align="center" nowrap>${thirdCell}</td>
       <td align="center" nowrap><!-- availability:${resource.id} -->${status}<!-- /availability:${resource.id} --></td>
       <td align="center" nowrap><!-- availability-date:${resource.id} -->${checkedAt}<!-- /availability-date:${resource.id} --></td>
     </tr>`;
@@ -188,7 +199,8 @@ function tableFor(resources, availabilityById, options = {}) {
   <thead>
     <tr>
       <th width="20%" nowrap>资源</th>
-      <th width="50%" nowrap>${summaryHeading}</th>
+      <th width="30%" nowrap>${summaryHeading}</th>
+      <th width="20%" nowrap>${thirdHeading}</th>
       <th width="15%" nowrap>状&#8288;态</th>
       <th width="15%" nowrap>检测时间</th>
     </tr>
@@ -240,6 +252,11 @@ function categorySection(category, resources, availabilityById) {
         ? openSourceTableFor(categoryResources)
         : tableFor(categoryResources, availabilityById, {
             summaryHeading: category.id === "tvbox_config" ? "地址" : "简介",
+            thirdHeading: category.id === "video_app" ? "支持平台" : "推荐指数",
+            thirdCell:
+              category.id === "video_app"
+                ? (resource) => escapeHtml((resource.platforms ?? []).join("、") || "未注明")
+                : undefined,
             plainName: (resource) =>
               category.id === "tvbox_config" && !resource.link_url,
             showUrlInSummary: (resource) =>
