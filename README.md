@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-2563eb?style=for-the-badge" alt="网站 zhuiju.me"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-60_个资源-0f766e?style=for-the-badge" alt="已收录 60 个资源"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-61_个资源-0f766e?style=for-the-badge" alt="已收录 61 个资源"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/可用性检测-每日执行-f59e0b?style=for-the-badge" alt="可用性检测 每日执行"></a>
 </p>
@@ -33,7 +33,7 @@
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-64748b?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-4-7c3aed?style=flat-square" alt="磁力& BT"></a>
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-3-d97706?style=flat-square" alt="字幕资源"></a>
-  <a href="#tvbox播放器"><img src="https://img.shields.io/badge/TVbox播放器-1-059669?style=flat-square" alt="TVbox播放器"></a>
+  <a href="#tvbox播放器"><img src="https://img.shields.io/badge/TVbox播放器-2-059669?style=flat-square" alt="TVbox播放器"></a>
   <a href="#订阅源"><img src="https://img.shields.io/badge/订阅源-1-db2777?style=flat-square" alt="订阅源"></a>
   <a href="#影视仓配置地址"><img src="https://img.shields.io/badge/影视仓配置-14-0891b2?style=flat-square" alt="影视仓配置地址"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-64748b?style=flat-square" alt="会员拼团"></a>
@@ -82,7 +82,7 @@
       <td nowrap><a href="https://www.appmovie.art" target="_blank" rel="noopener noreferrer">APP影院</a></td>
       <td nowrap>国内外热播剧，纯净无广告</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:appmovie -->🟢&#8288;可&#8288;访问<!-- /availability:appmovie --></td>
+      <td align="center" nowrap><!-- availability:appmovie -->🟡&#8288;访问&#8288;受限<!-- /availability:appmovie --></td>
       <td align="center" nowrap><!-- availability-date:appmovie -->2026&#8209;07&#8209;10<!-- /availability-date:appmovie --></td>
     </tr>
     <tr>
@@ -412,6 +412,13 @@
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap><!-- availability:kodi -->🟡&#8288;访问&#8288;受限<!-- /availability:kodi --></td>
       <td align="center" nowrap><!-- availability-date:kodi -->2026&#8209;07&#8209;10<!-- /availability-date:kodi --></td>
+    </tr>
+    <tr>
+      <td nowrap><a href="https://tv.xn--yhqu5zs87a.top/" target="_blank" rel="noopener noreferrer">FongMi 影视</a></td>
+      <td nowrap>一个tvbox二开的app，附带视频源 手机端、平板端已测试，适配较好</td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:tv-xn-yhqu5zs87a-top-3 -->🟢&#8288;可&#8288;访问<!-- /availability:tv-xn-yhqu5zs87a-top-3 --></td>
+      <td align="center" nowrap><!-- availability-date:tv-xn-yhqu5zs87a-top-3 -->2026&#8209;07&#8209;10<!-- /availability-date:tv-xn-yhqu5zs87a-top-3 --></td>
     </tr>
   </tbody>
 </table>
