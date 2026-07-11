@@ -16,9 +16,9 @@ const categories = [
   { id: "cloud_search", name: "网盘资源搜索", badge: "网盘搜索", color: "64748b" },
   { id: "magnet_search", name: "磁力& BT", badge: "磁力%26_BT", color: "7c3aed" },
   { id: "subtitles", name: "字幕资源", badge: "字幕资源", color: "d97706" },
-  { id: "player", name: "TVbox播放器", badge: "TVbox播放器", color: "059669" },
+  { id: "player", name: "TVBox/影视仓空壳", badge: "TVBox%2F影视仓空壳", color: "059669" },
+  { id: "tvbox_config", name: "TVBox/影视仓配置地址", badge: "TVBox%2F影视仓配置", color: "0891b2" },
   { id: "subscription", name: "订阅源", badge: "订阅源", color: "db2777" },
-  { id: "tvbox_config", name: "影视仓配置地址", badge: "影视仓配置", color: "0891b2" },
   { id: "membership", name: "会员拼团", badge: "会员拼团", color: "64748b" },
   { id: "open_source", name: "开源项目", badge: "开源项目", color: "0f172a" }
 ];
@@ -38,7 +38,7 @@ function breakableCode(value) {
 function anchorFor(name) {
   return name
     .toLowerCase()
-    .replaceAll("&", "")
+    .replaceAll(/[&/]/g, "")
     .trim()
     .replaceAll(/\s+/g, "-");
 }

@@ -5,7 +5,7 @@
 ### 追剧不踩坑，资源有人测
 
 <p>🎬 在线影视 · 影视APP · 网盘搜索<br>
-📦 磁力 BT · 字幕 · 影视仓配置地址<br>
+📦 磁力 BT · 字幕 · TVBox/影视仓配置地址<br>
 🔍 人工精选，仅收录免费无广告资源<br>
 ✅ 每日自动检测可用性，资源不是死列表<br>
 🔓 完全开源，社区共同维护</p>
@@ -52,9 +52,9 @@
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-64748b?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-9-7c3aed?style=flat-square" alt="磁力& BT"></a>
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-3-d97706?style=flat-square" alt="字幕资源"></a>
-  <a href="#tvbox播放器"><img src="https://img.shields.io/badge/TVbox播放器-2-059669?style=flat-square" alt="TVbox播放器"></a>
+  <a href="#tvbox影视仓空壳"><img src="https://img.shields.io/badge/TVBox%2F影视仓空壳-2-059669?style=flat-square" alt="TVBox/影视仓空壳"></a>
+  <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓配置-15-0891b2?style=flat-square" alt="TVBox/影视仓配置地址"></a>
   <a href="#订阅源"><img src="https://img.shields.io/badge/订阅源-1-db2777?style=flat-square" alt="订阅源"></a>
-  <a href="#影视仓配置地址"><img src="https://img.shields.io/badge/影视仓配置-15-0891b2?style=flat-square" alt="影视仓配置地址"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-64748b?style=flat-square" alt="会员拼团"></a>
   <a href="#开源项目"><img src="https://img.shields.io/badge/开源项目-10-0f172a?style=flat-square" alt="开源项目"></a>
 </p>
@@ -468,7 +468,7 @@
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
-### TVbox播放器
+### TVBox/影视仓空壳
 
 <table width="100%">
   <thead>
@@ -500,32 +500,7 @@
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
-### 订阅源
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="20%" nowrap>资源</th>
-      <th width="30%" nowrap>简介</th>
-      <th width="20%" nowrap>推荐指数</th>
-      <th width="15%" nowrap>状&#8288;态</th>
-      <th width="15%" nowrap>检测时间</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td nowrap><a href="https://github.com/iptv-org/iptv" target="_blank" rel="noopener noreferrer">IPTV-org</a></td>
-      <td nowrap>社区维护的公开 IPTV 频道集合</td>
-      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:iptv-org -->🟢&#8288;可&#8288;访问<!-- /availability:iptv-org --></td>
-      <td align="center" nowrap><!-- availability-date:iptv-org -->2026&#8209;07&#8209;12<!-- /availability-date:iptv-org --></td>
-    </tr>
-  </tbody>
-</table>
-
-<p align="right"><a href="#精选资源">返回分类导航</a></p>
-
-### 影视仓配置地址
+### TVBox/影视仓配置地址
 
 <table width="100%">
   <thead>
@@ -642,6 +617,31 @@
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap><!-- availability:xiao-he-zi -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-he-zi --></td>
       <td align="center" nowrap><!-- availability-date:xiao-he-zi -->2026&#8209;07&#8209;12<!-- /availability-date:xiao-he-zi --></td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="right"><a href="#精选资源">返回分类导航</a></p>
+
+### 订阅源
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%" nowrap>资源</th>
+      <th width="30%" nowrap>简介</th>
+      <th width="20%" nowrap>推荐指数</th>
+      <th width="15%" nowrap>状&#8288;态</th>
+      <th width="15%" nowrap>检测时间</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td nowrap><a href="https://github.com/iptv-org/iptv" target="_blank" rel="noopener noreferrer">IPTV-org</a></td>
+      <td nowrap>社区维护的公开 IPTV 频道集合</td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:iptv-org -->🟢&#8288;可&#8288;访问<!-- /availability:iptv-org --></td>
+      <td align="center" nowrap><!-- availability-date:iptv-org -->2026&#8209;07&#8209;12<!-- /availability-date:iptv-org --></td>
     </tr>
   </tbody>
 </table>
@@ -768,8 +768,8 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 | 找网盘分享 | 网盘资源搜索 | 想保存到网盘或找合集 | 分享链接有效期、诱导下载与版权风险 |
 | 找磁力入口 | 磁力& BT | 想找磁力、BT 或相关资源站 | 版权、链接安全与下载隐私风险 |
 | 找字幕 | 字幕资源 | 外语片、冷门片、版本匹配 | 字幕版本、上传来源与下载安全 |
-| 电视端播放 | TVbox播放器、订阅源 | 电视盒子、NAS、客厅播放 | 插件、订阅源与频道来源是否可信 |
-| 配置影视仓 | 影视仓配置地址 | 影视仓、TVBox 快速导入配置 | 配置来源、接口稳定性与安全风险 |
+| 电视端播放 | TVBox/影视仓空壳、订阅源 | 电视盒子、NAS、客厅播放 | 插件、订阅源与频道来源是否可信 |
+| 配置影视仓 | TVBox/影视仓配置地址 | 影视仓、TVBox 快速导入配置 | 配置来源、接口稳定性与安全风险 |
 | 省会员费用 | 会员拼团 | 正规会员合租或优惠信息 | 支付规则、账号归属和售后风险 |
 | 找开源工具 | 开源项目 | 自建、部署或二次开发影视工具 | 项目活跃度、维护情况和使用门槛 |
 
