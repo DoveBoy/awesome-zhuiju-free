@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-2563eb?style=for-the-badge" alt="网站 zhuiju.me"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-65_个资源-0f766e?style=for-the-badge" alt="已收录 65 个资源"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-70_个资源-0f766e?style=for-the-badge" alt="已收录 70 个资源"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/可用性检测-每日执行-f59e0b?style=for-the-badge" alt="可用性检测 每日执行"></a>
 </p>
@@ -50,7 +50,7 @@
   <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-23-2563eb?style=flat-square" alt="在线影视"></a>
   <a href="#影视app"><img src="https://img.shields.io/badge/影视APP-3-0f766e?style=flat-square" alt="影视APP"></a>
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-64748b?style=flat-square" alt="网盘资源搜索"></a>
-  <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-4-7c3aed?style=flat-square" alt="磁力& BT"></a>
+  <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-9-7c3aed?style=flat-square" alt="磁力& BT"></a>
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-3-d97706?style=flat-square" alt="字幕资源"></a>
   <a href="#tvbox播放器"><img src="https://img.shields.io/badge/TVbox播放器-2-059669?style=flat-square" alt="TVbox播放器"></a>
   <a href="#订阅源"><img src="https://img.shields.io/badge/订阅源-1-db2777?style=flat-square" alt="订阅源"></a>
@@ -348,6 +348,20 @@
   </thead>
   <tbody>
     <tr>
+      <td nowrap><a href="https://pomo.mom" target="_blank" rel="noopener noreferrer">4K原盘</a></td>
+      <td nowrap>4K原盘免费下载</td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:4k-yuanpan -->⚪&#8288;未&#8288;检测<!-- /availability:4k-yuanpan --></td>
+      <td align="center" nowrap><!-- availability-date:4k-yuanpan -->2026&#8209;07&#8209;12<!-- /availability-date:4k-yuanpan --></td>
+    </tr>
+    <tr>
+      <td nowrap><a href="https://www.btsj6.com" target="_blank" rel="noopener noreferrer">BT世界网</a></td>
+      <td nowrap>高清电影美剧BT种子迅雷下载</td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:btshijiewang -->⚪&#8288;未&#8288;检测<!-- /availability:btshijiewang --></td>
+      <td align="center" nowrap><!-- availability-date:btshijiewang -->2026&#8209;07&#8209;12<!-- /availability-date:btshijiewang --></td>
+    </tr>
+    <tr>
       <td nowrap><a href="https://clg56.top" target="_blank" rel="noopener noreferrer">磁力狗</a></td>
       <td nowrap>干净好用的磁力资源搜索</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
@@ -374,6 +388,27 @@
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap><!-- availability:cilixiong -->🟢&#8288;可&#8288;访问<!-- /availability:cilixiong --></td>
       <td align="center" nowrap><!-- availability-date:cilixiong -->2026&#8209;07&#8209;12<!-- /availability-date:cilixiong --></td>
+    </tr>
+    <tr>
+      <td nowrap><a href="https://www.dyg22.com" target="_blank" rel="noopener noreferrer">电影港网</a></td>
+      <td nowrap>无水印4K高清BT种子资源</td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:dianyinggang -->⚪&#8288;未&#8288;检测<!-- /availability:dianyinggang --></td>
+      <td align="center" nowrap><!-- availability-date:dianyinggang -->2026&#8209;07&#8209;12<!-- /availability-date:dianyinggang --></td>
+    </tr>
+    <tr>
+      <td nowrap><a href="https://www.mp4ba.vip" target="_blank" rel="noopener noreferrer">高清MP4</a></td>
+      <td nowrap>免费1080电影4K电影</td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:gaoqing-mp4 -->⚪&#8288;未&#8288;检测<!-- /availability:gaoqing-mp4 --></td>
+      <td align="center" nowrap><!-- availability-date:gaoqing-mp4 -->2026&#8209;07&#8209;12<!-- /availability-date:gaoqing-mp4 --></td>
+    </tr>
+    <tr>
+      <td nowrap><a href="https://hdzu.org" target="_blank" rel="noopener noreferrer">高清族</a></td>
+      <td nowrap>1080P电影下载,4K电影下载</td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:gaoqingzu -->⚪&#8288;未&#8288;检测<!-- /availability:gaoqingzu --></td>
+      <td align="center" nowrap><!-- availability-date:gaoqingzu -->2026&#8209;07&#8209;12<!-- /availability-date:gaoqingzu --></td>
     </tr>
   </tbody>
 </table>

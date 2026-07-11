@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-11",
+  "updated_at": "2026-07-12",
   "records": [
     {
       "id": "verify-20260606-initial",
@@ -310,6 +310,25 @@
       },
       "result": "pending_review",
       "notes": "根据用户补充收录 SeleneTV（https://b.zhuiju.me/archives/4/），简介为跨平台 MoonTV 客户端，支持 Android、iOS、macOS 和 Windows；后续由 GitHub Actions 自动检测可用性，并持续观察应用安装来源、内容来源、版权状态与隐私安全。"
+    },
+    {
+      "id": "verify-20260712-magnet-bt-batch",
+      "resource_ids": [
+        "4k-yuanpan",
+        "dianyinggang",
+        "btshijiewang",
+        "gaoqing-mp4",
+        "gaoqingzu"
+      ],
+      "checked_at": "2026-07-12",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user submitted"
+      },
+      "result": "pending_review",
+      "notes": "根据用户补充收录磁力& BT资源：4K原盘（https://pomo.mom，推荐指数 5 星，简介：4K原盘免费下载）、电影港网（https://www.dyg22.com，推荐指数 4 星，简介：无水印4K高清BT种子资源）、BT世界网（https://www.btsj6.com，推荐指数 5 星，简介：高清电影美剧BT种子迅雷下载）、高清MP4（https://www.mp4ba.vip，推荐指数 4 星，简介：免费1080电影4K电影）和高清族（https://hdzu.org，推荐指数 3 星，简介：1080P电影下载,4K电影下载）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与链接安全性。"
     }
   ]
 }

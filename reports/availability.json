@@ -613,6 +613,61 @@
       "checked_at": "2026-07-11T20:13:39.124Z",
       "attempts": 1,
       "error": null
+    },
+    {
+      "resource_id": "4k-yuanpan",
+      "url": "https://pomo.mom",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": null,
+      "checked_at": "2026-07-11T16:00:00.000Z",
+      "attempts": 0,
+      "error": "pending automated check"
+    },
+    {
+      "resource_id": "dianyinggang",
+      "url": "https://www.dyg22.com",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": null,
+      "checked_at": "2026-07-11T16:00:00.000Z",
+      "attempts": 0,
+      "error": "pending automated check"
+    },
+    {
+      "resource_id": "btshijiewang",
+      "url": "https://www.btsj6.com",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": null,
+      "checked_at": "2026-07-11T16:00:00.000Z",
+      "attempts": 0,
+      "error": "pending automated check"
+    },
+    {
+      "resource_id": "gaoqing-mp4",
+      "url": "https://www.mp4ba.vip",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": null,
+      "checked_at": "2026-07-11T16:00:00.000Z",
+      "attempts": 0,
+      "error": "pending automated check"
+    },
+    {
+      "resource_id": "gaoqingzu",
+      "url": "https://hdzu.org",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": null,
+      "checked_at": "2026-07-11T16:00:00.000Z",
+      "attempts": 0,
+      "error": "pending automated check"
     }
   ]
 }

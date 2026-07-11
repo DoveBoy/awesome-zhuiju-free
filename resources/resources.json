@@ -2265,6 +2265,231 @@
       "featured": true
     },
     {
+      "id": "4k-yuanpan",
+      "name": "4K原盘",
+      "url": "https://pomo.mom",
+      "category": "magnet_search",
+      "summary": "4K原盘免费下载。",
+      "summary_short": "4K原盘免费下载",
+      "tags": [
+        "磁力",
+        "BT",
+        "4K",
+        "原盘"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-07-12",
+        "method": "manual",
+        "notes": "根据用户补充收录：推荐指数 5 星，测评备注为4K原盘免费下载；提交状态不作为本项目状态依据，内容来源、版权状态与链接安全性需要持续观察。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-07-12"
+      },
+      "featured": true
+    },
+    {
+      "id": "dianyinggang",
+      "name": "电影港网",
+      "url": "https://www.dyg22.com",
+      "category": "magnet_search",
+      "summary": "无水印4K高清BT种子资源。",
+      "summary_short": "无水印4K高清BT种子资源",
+      "tags": [
+        "磁力",
+        "BT",
+        "4K",
+        "电影"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-07-12",
+        "method": "manual",
+        "notes": "根据用户补充收录：推荐指数 4 星，测评备注为无水印4K高清BT种子资源；提交状态不作为本项目状态依据，内容来源、版权状态与链接安全性需要持续观察。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-07-12"
+      },
+      "featured": true
+    },
+    {
+      "id": "btshijiewang",
+      "name": "BT世界网",
+      "url": "https://www.btsj6.com",
+      "category": "magnet_search",
+      "summary": "高清电影美剧BT种子迅雷下载。",
+      "summary_short": "高清电影美剧BT种子迅雷下载",
+      "tags": [
+        "磁力",
+        "BT",
+        "电影",
+        "美剧"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-07-12",
+        "method": "manual",
+        "notes": "根据用户补充收录：推荐指数 5 星，测评备注为高清电影美剧BT种子迅雷下载；提交状态不作为本项目状态依据，内容来源、版权状态与链接安全性需要持续观察。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-07-12"
+      },
+      "featured": true
+    },
+    {
+      "id": "gaoqing-mp4",
+      "name": "高清MP4",
+      "url": "https://www.mp4ba.vip",
+      "category": "magnet_search",
+      "summary": "免费1080电影4K电影。",
+      "summary_short": "免费1080电影4K电影",
+      "tags": [
+        "磁力",
+        "BT",
+        "1080P",
+        "4K"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-07-12",
+        "method": "manual",
+        "notes": "根据用户补充收录：推荐指数 4 星，测评备注为免费1080电影4K电影；提交状态不作为本项目状态依据，内容来源、版权状态与链接安全性需要持续观察。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-07-12"
+      },
+      "featured": true
+    },
+    {
+      "id": "gaoqingzu",
+      "name": "高清族",
+      "url": "https://hdzu.org",
+      "category": "magnet_search",
+      "summary": "1080P电影下载,4K电影下载。",
+      "summary_short": "1080P电影下载,4K电影下载",
+      "tags": [
+        "磁力",
+        "BT",
+        "1080P",
+        "4K"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 3,
+        "speed": 3,
+        "clean": 3,
+        "stable": 3,
+        "ease": 3
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-07-12",
+        "method": "manual",
+        "notes": "根据用户补充收录：推荐指数 3 星，测评备注为1080P电影下载,4K电影下载；提交状态不作为本项目状态依据，内容来源、版权状态与链接安全性需要持续观察。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-07-12"
+      },
+      "featured": true
+    },
+    {
       "id": "kuake-so-1",
       "name": "PanSou",
       "url": "https://pansou.de",
