@@ -770,7 +770,7 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 
 - [LINUX DO](https://linux.do) —— 新的理想型社区，技术爱好者的聚集地。
 
-## Star History
+## 项目数据
 
 <a href="https://www.star-history.com/?repos=laoma2053%2Fawesome-zhuiju-free&type=date&legend=top-left">
  <picture>
@@ -780,22 +780,14 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
  </picture>
 </a>
 
----
-
-## 项目活跃度
-
 ![Repobeats](https://repobeats.axiom.co/api/embed/65ad4a689ab7989c03d2b13b0e1062a1018a76f9.svg "Repobeats 分析图像")
 
 ---
 
 <div align="center">
 
-**追剧不踩坑，资源有人测。**
+[推荐新资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml) · [报告失效](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml) · [贡献指南](CONTRIBUTING.md)
 
-[zhuiju.me](https://zhuiju.me) · [推荐资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml) · [报告问题](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml)
-
-[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
-本项目数据与内容采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 协议授权，代码部分采用 [MIT](LICENSE) 协议。
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) 数据与内容 CC BY 4.0，代码 [MIT](LICENSE)
 
 </div>
