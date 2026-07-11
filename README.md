@@ -351,14 +351,14 @@
       <td nowrap><a href="https://pomo.mom" target="_blank" rel="noopener noreferrer">4K原盘</a></td>
       <td nowrap>4K原盘免费下载</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:4k-yuanpan -->⚪&#8288;未&#8288;检测<!-- /availability:4k-yuanpan --></td>
+      <td align="center" nowrap><!-- availability:4k-yuanpan -->🟢&#8288;可&#8288;访问<!-- /availability:4k-yuanpan --></td>
       <td align="center" nowrap><!-- availability-date:4k-yuanpan -->2026&#8209;07&#8209;12<!-- /availability-date:4k-yuanpan --></td>
     </tr>
     <tr>
       <td nowrap><a href="https://www.btsj6.com" target="_blank" rel="noopener noreferrer">BT世界网</a></td>
       <td nowrap>高清电影美剧BT种子迅雷下载</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:btshijiewang -->⚪&#8288;未&#8288;检测<!-- /availability:btshijiewang --></td>
+      <td align="center" nowrap><!-- availability:btshijiewang -->🟢&#8288;可&#8288;访问<!-- /availability:btshijiewang --></td>
       <td align="center" nowrap><!-- availability-date:btshijiewang -->2026&#8209;07&#8209;12<!-- /availability-date:btshijiewang --></td>
     </tr>
     <tr>
@@ -393,21 +393,21 @@
       <td nowrap><a href="https://www.dyg22.com" target="_blank" rel="noopener noreferrer">电影港网</a></td>
       <td nowrap>无水印4K高清BT种子资源</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:dianyinggang -->⚪&#8288;未&#8288;检测<!-- /availability:dianyinggang --></td>
+      <td align="center" nowrap><!-- availability:dianyinggang -->🟢&#8288;可&#8288;访问<!-- /availability:dianyinggang --></td>
       <td align="center" nowrap><!-- availability-date:dianyinggang -->2026&#8209;07&#8209;12<!-- /availability-date:dianyinggang --></td>
     </tr>
     <tr>
       <td nowrap><a href="https://www.mp4ba.vip" target="_blank" rel="noopener noreferrer">高清MP4</a></td>
       <td nowrap>免费1080电影4K电影</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:gaoqing-mp4 -->⚪&#8288;未&#8288;检测<!-- /availability:gaoqing-mp4 --></td>
+      <td align="center" nowrap><!-- availability:gaoqing-mp4 -->🟡&#8288;访问&#8288;受限<!-- /availability:gaoqing-mp4 --></td>
       <td align="center" nowrap><!-- availability-date:gaoqing-mp4 -->2026&#8209;07&#8209;12<!-- /availability-date:gaoqing-mp4 --></td>
     </tr>
     <tr>
       <td nowrap><a href="https://hdzu.org" target="_blank" rel="noopener noreferrer">高清族</a></td>
       <td nowrap>1080P电影下载,4K电影下载</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:gaoqingzu -->⚪&#8288;未&#8288;检测<!-- /availability:gaoqingzu --></td>
+      <td align="center" nowrap><!-- availability:gaoqingzu -->🟢&#8288;可&#8288;访问<!-- /availability:gaoqingzu --></td>
       <td align="center" nowrap><!-- availability-date:gaoqingzu -->2026&#8209;07&#8209;12<!-- /availability-date:gaoqingzu --></td>
     </tr>
   </tbody>
@@ -577,7 +577,7 @@
       <td nowrap>小马</td>
       <td><code>https:<wbr>/<wbr>/<wbr>szyyds.<wbr>cn/<wbr>tv/<wbr>x.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:xiao-ma -->🔴&#8288;无法&#8288;访问<!-- /availability:xiao-ma --></td>
+      <td align="center" nowrap><!-- availability:xiao-ma -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-ma --></td>
       <td align="center" nowrap><!-- availability-date:xiao-ma -->2026&#8209;07&#8209;12<!-- /availability-date:xiao-ma --></td>
     </tr>
     <tr>
