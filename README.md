@@ -4,11 +4,16 @@
 
 ### 免费无广告的追剧资源指南
 
-<p>🎬 在线影视 · 影视APP · 网盘搜索<br>
-📦 磁力BT/字幕 · TVBox/影视仓接口<br>
-🔍 人工精选，免费无广的资源<br>
-✅ 每天自动检测，资源是否可用<br>
-🔓 完全开源，社区共同维护</p>
+<table>
+  <tr>
+    <td align="center"><strong>收录范围</strong></td>
+    <td align="center">🎬 在线影视 · 影视APP · 网盘搜索<br>📦 磁力BT/字幕 · TVBox/影视仓接口</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>项目亮点</strong></td>
+    <td align="center">🔍 人工精选，免费无广告的资源<br>✅ 每天自动检测，资源是否可用<br>🔓 完全开源，社区共同维护</td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
