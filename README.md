@@ -33,6 +33,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/laoma2053/awesome-zhuiju-free"><img src="https://img.shields.io/badge/Awesome-追剧资源-FC60A8?style=flat-square" alt="Awesome 追剧资源" height="24"></a>
+  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml/badge.svg?branch=main" alt="Check availability" height="24"></a>
+  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/validate-data.yml"><img src="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/validate-data.yml/badge.svg?branch=main" alt="Validate data" height="24"></a>
+  <a href="https://hits.sh/github.com/laoma2053/awesome-zhuiju-free/"><img src="https://hits.sh/github.com/laoma2053/awesome-zhuiju-free.svg?style=flat-square&label=Visits&color=0A66C2" alt="Visits" height="24"></a>
+</p>
+
+<p align="center">
   <a href="https://trendshift.io/repositories/79445?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-79445" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/79445/daily?language=JavaScript" alt="laoma2053%2Fawesome-zhuiju-free | Trendshift" width="250" height="55"></a>
 </p>
 
