@@ -396,13 +396,13 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 
 - [LINUX DO](https://linux.do) —— 新的理想型社区，技术爱好者的聚集地。
 
-## Star History
+## 项目数据
 
-<a href="https://www.star-history.com/?repos=laoma2053%2Fawesome-zhuiju-free&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=laoma2053%2Fawesome-zhuiju-free&type=timeline&logscale=&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=date&theme=dark&legend=top-left&sealed_token=aVBiJomVcJSaTCq7uPMZK1P-etsslVwhnMyLVKbmgwsmLkzI2RU2dw2FyIiwM-KBgdneHJuaUDCxCXq8-Ex7SigBPKKnNQTzVjLOzSl-5Z2R2UsBw-Bgxg" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=date&legend=top-left&sealed_token=aVBiJomVcJSaTCq7uPMZK1P-etsslVwhnMyLVKbmgwsmLkzI2RU2dw2FyIiwM-KBgdneHJuaUDCxCXq8-Ex7SigBPKKnNQTzVjLOzSl-5Z2R2UsBw-Bgxg" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=date&legend=top-left&sealed_token=aVBiJomVcJSaTCq7uPMZK1P-etsslVwhnMyLVKbmgwsmLkzI2RU2dw2FyIiwM-KBgdneHJuaUDCxCXq8-Ex7SigBPKKnNQTzVjLOzSl-5Z2R2UsBw-Bgxg" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=timeline&theme=dark&logscale&legend=top-left&sealed_token=nNh13DF2rLBXtGCqs0Bxv-E0eO_EhS786_qH9Fg97ESt4QHI_bPzpbLZ5gDZ6ko7PynQv9UABdwH-ZTQFtS9mENhHO0RbXhsEzaDWGnkdw_FX1KhSGTejg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=timeline&logscale&legend=top-left&sealed_token=nNh13DF2rLBXtGCqs0Bxv-E0eO_EhS786_qH9Fg97ESt4QHI_bPzpbLZ5gDZ6ko7PynQv9UABdwH-ZTQFtS9mENhHO0RbXhsEzaDWGnkdw_FX1KhSGTejg" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=timeline&logscale&legend=top-left&sealed_token=nNh13DF2rLBXtGCqs0Bxv-E0eO_EhS786_qH9Fg97ESt4QHI_bPzpbLZ5gDZ6ko7PynQv9UABdwH-ZTQFtS9mENhHO0RbXhsEzaDWGnkdw_FX1KhSGTejg" />
  </picture>
 </a>
 
