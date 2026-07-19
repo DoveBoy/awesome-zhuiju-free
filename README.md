@@ -404,11 +404,11 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 
 ## 项目数据
 
-<a href="https://www.star-history.com/?repos=laoma2053%2Fawesome-zhuiju-free&type=timeline&logscale=&legend=top-left">
+<a href="https://www.star-history.com/?repos=laoma2053%2Fawesome-zhuiju-free&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=timeline&theme=dark&logscale&legend=top-left&sealed_token=nNh13DF2rLBXtGCqs0Bxv-E0eO_EhS786_qH9Fg97ESt4QHI_bPzpbLZ5gDZ6ko7PynQv9UABdwH-ZTQFtS9mENhHO0RbXhsEzaDWGnkdw_FX1KhSGTejg" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=timeline&logscale&legend=top-left&sealed_token=nNh13DF2rLBXtGCqs0Bxv-E0eO_EhS786_qH9Fg97ESt4QHI_bPzpbLZ5gDZ6ko7PynQv9UABdwH-ZTQFtS9mENhHO0RbXhsEzaDWGnkdw_FX1KhSGTejg" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=timeline&logscale&legend=top-left&sealed_token=nNh13DF2rLBXtGCqs0Bxv-E0eO_EhS786_qH9Fg97ESt4QHI_bPzpbLZ5gDZ6ko7PynQv9UABdwH-ZTQFtS9mENhHO0RbXhsEzaDWGnkdw_FX1KhSGTejg" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=date&theme=dark&legend=top-left&sealed_token=faNqwsSNwuTXdJnfVFBDM4nfN0XuLUYpfpLbkuc1LF9OHLD3yRD0w248UNnAH68kGnNo7B4mUJRezfCUlE8fYzc_7Kx55mQOimPzi6s8x65bGgJdyeN5Jg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=date&legend=top-left&sealed_token=faNqwsSNwuTXdJnfVFBDM4nfN0XuLUYpfpLbkuc1LF9OHLD3yRD0w248UNnAH68kGnNo7B4mUJRezfCUlE8fYzc_7Kx55mQOimPzi6s8x65bGgJdyeN5Jg" />
+   <img alt="星空历史图表" src="https://api.star-history.com/chart?repos=laoma2053/awesome-zhuiju-free&type=date&legend=top-left&sealed_token=faNqwsSNwuTXdJnfVFBDM4nfN0XuLUYpfpLbkuc1LF9OHLD3yRD0w248UNnAH68kGnNo7B4mUJRezfCUlE8fYzc_7Kx55mQOimPzi6s8x65bGgJdyeN5Jg" />
  </picture>
 </a>
 
