@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-09",
+  "updated_at": "2026-08-29",
   "records": [
     {
       "id": "verify-20260606-initial",
@@ -499,6 +499,66 @@
       },
       "result": "pending_review",
       "notes": "根据用户补充将爱看机器人推荐指数从 5 星调整为 3 星，简介更新为热门电影电视剧（有跳转广告）；后续由 GitHub Actions 自动检测可用性，并持续观察广告跳转、版权状态与站点安全性。"
+    },
+    {
+      "id": "verify-20260829-juhebd",
+      "resource_ids": [
+        "juhebd"
+      ],
+      "checked_at": "2026-08-29",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user submitted"
+      },
+      "result": "pending_review",
+      "notes": "根据用户补充收录磁力& BT资源：BD影视聚合（https://www.juhebd.com/，推荐指数 5 星，简介：最新高清电影电视剧下载）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与链接安全性。"
+    },
+    {
+      "id": "verify-20260829-ainunu",
+      "resource_ids": [
+        "ainunu"
+      ],
+      "checked_at": "2026-08-29",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user submitted"
+      },
+      "result": "pending_review",
+      "notes": "根据用户补充收录磁力& BT资源：爱努努（https://video.ainunu.com/，推荐指数 4 星，简介：绿色影视下载）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与链接安全性。"
+    },
+    {
+      "id": "verify-20260829-bdflixs",
+      "resource_ids": [
+        "bdflixs"
+      ],
+      "checked_at": "2026-08-29",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user submitted"
+      },
+      "result": "pending_review",
+      "notes": "根据用户补充收录磁力& BT资源：BD电影首发（https://www.bdflixs.com/，推荐指数 5 星，简介：4K蓝光高清电影更新）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与链接安全性。"
+    },
+    {
+      "id": "verify-20260829-ldysg",
+      "resource_ids": [
+        "ldysg"
+      ],
+      "checked_at": "2026-08-29",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user submitted"
+      },
+      "result": "pending_review",
+      "notes": "根据用户补充收录磁力& BT资源：找电影时光（https://www.ldysg.win/，推荐指数 5 星，简介：影视高清晰无水印下载）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与链接安全性。"
     }
   ]
 }

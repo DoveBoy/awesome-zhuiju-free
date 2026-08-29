@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-08-24",
+  "updated_at": "2026-08-29",
   "resources": [
     {
       "id": "no-video",
@@ -2397,6 +2397,188 @@
       },
       "featured": true,
       "featured_order": 15
+    },
+    {
+      "id": "juhebd",
+      "name": "BD影视聚合",
+      "url": "https://www.juhebd.com/",
+      "category": "magnet_search",
+      "summary": "提供最新高清电影、电视剧下载资源。",
+      "summary_short": "最新高清电影电视剧下载",
+      "tags": [
+        "磁力",
+        "BT",
+        "电影",
+        "电视剧",
+        "高清"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录：推荐指数 5 星，简介为最新高清电影电视剧下载；提交状态不作为本项目状态依据，内容来源、版权状态与链接安全性需要持续观察。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "ainunu",
+      "name": "爱努努",
+      "url": "https://video.ainunu.com/",
+      "category": "magnet_search",
+      "summary": "提供绿色影视下载资源。",
+      "summary_short": "绿色影视下载",
+      "tags": [
+        "磁力",
+        "BT",
+        "影视下载"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录：推荐指数 4 星，简介为绿色影视下载；提交状态不作为本项目状态依据，内容来源、版权状态与链接安全性需要持续观察。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "bdflixs",
+      "name": "BD电影首发",
+      "url": "https://www.bdflixs.com/",
+      "category": "magnet_search",
+      "summary": "提供4K蓝光高清电影更新。",
+      "summary_short": "4K蓝光高清电影更新",
+      "tags": [
+        "磁力",
+        "BT",
+        "电影",
+        "4K",
+        "蓝光"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录：推荐指数 5 星，简介为4K蓝光高清电影更新；提交状态不作为本项目状态依据，内容来源、版权状态与链接安全性需要持续观察。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "ldysg",
+      "name": "找电影时光",
+      "url": "https://www.ldysg.win/",
+      "category": "magnet_search",
+      "summary": "提供高清晰、无水印影视下载资源。",
+      "summary_short": "影视高清晰无水印下载",
+      "tags": [
+        "磁力",
+        "BT",
+        "影视下载",
+        "高清",
+        "无水印"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录：推荐指数 5 星，简介为影视高清晰无水印下载；提交状态不作为本项目状态依据，内容来源、版权状态与链接安全性需要持续观察。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
     },
     {
       "id": "meijufen",
