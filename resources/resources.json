@@ -2804,8 +2804,8 @@
     },
     {
       "id": "4k-yuanpan",
-      "name": "4K原盘",
-      "url": "https://pomo.mom",
+      "name": "POMO",
+      "url": "https://pomo.mom/",
       "category": "magnet_search",
       "summary": "4K原盘免费下载。",
       "summary_short": "4K原盘免费下载",
@@ -2837,9 +2837,9 @@
       },
       "verification": {
         "status": "caution",
-        "last_checked": "2026-07-12",
+        "last_checked": "2026-08-29",
         "method": "manual",
-        "notes": "根据用户补充收录：推荐指数 5 星，测评备注为4K原盘免费下载；提交状态不作为本项目状态依据，内容来源、版权状态与链接安全性需要持续观察。"
+        "notes": "根据用户补充将网站名更新为 POMO，并确认推荐指数 5 星、简介为4K原盘免费下载；提交状态不作为本项目状态依据，内容来源、版权状态与链接安全性需要持续观察。"
       },
       "source": {
         "submitted_by": "maintainer",

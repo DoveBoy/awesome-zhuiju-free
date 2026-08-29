@@ -784,6 +784,21 @@
       },
       "result": "pending_review",
       "notes": "根据用户补充将 4k影视推荐指数从 4 星调整为 3 星，简介更新为有广告能接受（需梯子/VIP限制）；后续由 GitHub Actions 自动检测可用性，并持续观察广告、VIP限制、版权状态与站点安全性。"
+    },
+    {
+      "id": "verify-20260829-pomo-name-update",
+      "resource_ids": [
+        "4k-yuanpan"
+      ],
+      "checked_at": "2026-08-29",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user submitted"
+      },
+      "result": "pending_review",
+      "notes": "该网址已以“4K原盘”收录；根据用户补充将网站名更新为 POMO，网址规范为 https://pomo.mom/，并确认推荐指数 5 星、简介为4K原盘免费下载。后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与链接安全性。"
     }
   ]
 }
