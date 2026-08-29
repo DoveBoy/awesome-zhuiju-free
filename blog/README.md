@@ -55,6 +55,57 @@ YYYY-MM-DD-文章主题.md
 - 是否避免承诺「永久可用」「绝对安全」这类不准确表达。
 - 是否说明资源可用性会随时间变化。
 
+## 本地 XML-RPC 管理
+
+项目根目录的 `.typecho.local.json` 保存本机账号配置，并已由 `.gitignore` 排除。管理脚本仅使用 Python 标准库，无需安装依赖。先执行不会修改博客的连接检查：
+
+```powershell
+python scripts/publish-typecho.py check
+```
+
+### 管理文章
+
+```powershell
+# 列出最近 10 篇文章
+python scripts/publish-typecho.py post list
+
+# 查看文章；加 --output 可导出为 Markdown 后编辑
+python scripts/publish-typecho.py post get 19
+python scripts/publish-typecho.py post get 19 --output blog/articles/article-19.md
+
+# 新建草稿或正式发布
+python scripts/publish-typecho.py post new blog/articles/文章.md --status draft
+python scripts/publish-typecho.py post new blog/articles/文章.md --status publish --category 教程 --tag Typecho --slug article-slug
+
+# 更新已有文章；未重新指定的分类、标签、Slug 等属性会从原文章保留
+python scripts/publish-typecho.py post update 19 blog/articles/文章.md --status publish
+```
+
+原有的 `new`、`update` 顶级命令仍可继续使用，它们分别等同于 `post new`、`post update`。
+
+### 管理独立页面
+
+```powershell
+# 列出、查看或导出独立页面
+python scripts/publish-typecho.py page list
+python scripts/publish-typecho.py page get 2
+python scripts/publish-typecho.py page get 2 --output blog/pages/about.md
+
+# 新增页面草稿或直接发布
+python scripts/publish-typecho.py page new blog/pages/about.md --status draft --slug about
+python scripts/publish-typecho.py page new blog/pages/about.md --status publish --slug about --order 1
+
+# 编辑并发布已有页面
+python scripts/publish-typecho.py page update 2 blog/pages/about.md --status publish
+
+# 永久删除页面，必须再次输入相同 ID
+python scripts/publish-typecho.py page delete 2 --confirm 2
+```
+
+当前网站的 `wp.getPage` 对部分旧页面会返回 500，`wp.getPages` 还会混入 PHP Deprecated 警告。脚本已内置兼容回退，会从批量响应中恢复页面正文、Slug 和排序等已返回字段。如果兼容读取仍然失败，更新会自动停止；确认接受属性重置风险时，才使用 `--force-without-metadata`，并通过 `--slug`、`--order`、`--template` 等参数明确提供页面属性。服务端后续仍建议升级 Typecho 或调整 PHP 错误显示设置。
+
+Markdown 文件第一行必须是 `# 标题`。Typecho 会根据后台的 XML-RPC Markdown 设置保存正文，脚本不会重复添加 `<!--markdown-->` 标记。所有新增与更新命令都必须显式传入 `--status draft` 或 `--status publish`，避免误发。
+
 ## 常用项目入口
 
 - 网站：https://zhuiju.me

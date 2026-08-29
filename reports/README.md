@@ -7,6 +7,7 @@
 - `verifications.json`：每次人工或自动验证的结果，只追加、不覆盖历史。
 - `availability.json`：GitHub Actions 每日生成的当前可访问性快照。
 - `notices.json`：权利通知、安全投诉和其他正式处理记录。
+- `navigation-sync.json`：导航后台的同步规则、当前站点基线和增删改操作历史。
 
 ## 记录原则
 
@@ -15,6 +16,8 @@
 - 资源被降级、暂停或下架时，应写明原因和关联记录。
 - 投诉撤回或处理完成后保留历史，但更新处理状态。
 - 自动可访问性检测只表示 GitHub Actions 节点当时能否访问，不替代人工验证。
+- 每次修改导航后台前，先核对 `README.md`、`navigation-sync.json` 的 `current_state` 和后台实际数据。
+- 导航后台操作完成后，更新 `current_state`，并向 `operations` 追加记录；历史记录不覆盖。
 
 投诉状态：
 
