@@ -5122,6 +5122,58 @@
         "added_at": "2026-08-29"
       },
       "featured": true
+    },
+    {
+      "id": "czy0729-bangumi",
+      "name": "Bangumi",
+      "url": "https://github.com/czy0729/Bangumi",
+      "category": "open_source",
+      "summary": "Bangumi 是专门做 ACG 的类豆瓣追番客户端。",
+      "summary_short": "专门做 ACG 的类豆瓣追番客户端",
+      "tags": [
+        "开源项目",
+        "ACG",
+        "追番",
+        "Android",
+        "iOS",
+        "React Native"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "free",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "unknown",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "low"
+      },
+      "verification": {
+        "status": "recommended",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充及 GitHub 公开仓库信息收录；Star 数来自 GitHub 项目页，仓库更新时间来自提交订阅源。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true,
+      "github": {
+        "full_name": "czy0729/Bangumi",
+        "stars": 5890,
+        "pushed_at": "2026-08-28T19:45:48Z"
+      }
     }
   ]
 }

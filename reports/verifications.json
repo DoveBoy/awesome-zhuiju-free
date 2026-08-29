@@ -799,6 +799,21 @@
       },
       "result": "pending_review",
       "notes": "该网址已以“4K原盘”收录；根据用户补充将网站名更新为 POMO，网址规范为 https://pomo.mom/，并确认推荐指数 5 星、简介为4K原盘免费下载。后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与链接安全性。"
+    },
+    {
+      "id": "verify-20260829-czy0729-bangumi",
+      "resource_ids": [
+        "czy0729-bangumi"
+      ],
+      "checked_at": "2026-08-29",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "GitHub public repository"
+      },
+      "result": "recommended",
+      "notes": "根据用户补充收录开源项目 Bangumi（https://github.com/czy0729/Bangumi），简介为：专门做 ACG 的类豆瓣追番客户端；Star 数来自 GitHub 项目页，仓库更新时间来自提交订阅源。"
     }
   ]
 }
