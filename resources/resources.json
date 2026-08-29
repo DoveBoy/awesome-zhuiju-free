@@ -4328,12 +4328,13 @@
       "name": "4k影视",
       "url": "https://www.4kvm.cc/",
       "category": "online_video",
-      "summary": "界面简洁，有广告能接受（需梯子）。",
-      "summary_short": "界面简洁，有广告能接受（需梯子）",
+      "summary": "有广告能接受（需梯子/VIP限制）。",
+      "summary_short": "有广告能接受（需梯子/VIP限制）",
       "tags": [
         "在线影视",
         "有广告",
-        "需梯子"
+        "需梯子",
+        "VIP限制"
       ],
       "access": {
         "requires_login": false,
@@ -4343,11 +4344,11 @@
         ]
       },
       "scores": {
-        "more": 4,
-        "speed": 4,
-        "clean": 4,
-        "stable": 4,
-        "ease": 4
+        "more": 3,
+        "speed": 3,
+        "clean": 3,
+        "stable": 3,
+        "ease": 3
       },
       "risks": {
         "copyright": "high",
@@ -4357,9 +4358,9 @@
       },
       "verification": {
         "status": "caution",
-        "last_checked": "2026-08-01",
+        "last_checked": "2026-08-29",
         "method": "manual",
-        "notes": "根据用户补充更新简介为界面简洁，有广告能接受（需梯子）。维护者 @laoma2053 已通过 ok 确认收录。测试信息：2026-08-01，中国大陆。提交者风险说明：有一点小广告，开始播放视频如果不用广告拦截器广告5秒后可关闭。"
+        "notes": "根据用户补充将 4k影视推荐指数从 4 星调整为 3 星，简介更新为有广告能接受（需梯子/VIP限制）；后续由 GitHub Actions 自动检测可用性，并持续观察广告、VIP限制、版权状态与站点安全性。"
       },
       "source": {
         "submitted_by": "@Function21",
@@ -4498,6 +4499,627 @@
       "source": {
         "submitted_by": "@xwx6164",
         "added_at": "2026-08-10"
+      },
+      "featured": true
+    },
+    {
+      "id": "juok",
+      "name": "剧OK",
+      "url": "https://juok3.top/",
+      "category": "online_video",
+      "summary": "最新电视剧、最新电影。",
+      "summary_short": "最新电视剧、最新电影",
+      "tags": [
+        "在线影视",
+        "电影",
+        "电视剧"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录在线影视资源：剧OK（https://juok3.top/，推荐指数 5 星，简介：最新电视剧、最新电影）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "dandanqi",
+      "name": "蛋蛋奇",
+      "url": "https://www.dandanqi.cc/",
+      "category": "online_video",
+      "summary": "最新电视剧、电影，无广告。",
+      "summary_short": "最新电视剧/电影/无广告",
+      "tags": [
+        "在线影视",
+        "电影",
+        "电视剧",
+        "无广告"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录在线影视资源：蛋蛋奇（https://www.dandanqi.cc/，推荐指数 5 星，简介：最新电视剧/电影/无广告）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "zndy",
+      "name": "宅男影视",
+      "url": "https://zndy.top/",
+      "category": "online_video",
+      "summary": "想看就看。",
+      "summary_short": "想看就看",
+      "tags": [
+        "在线影视"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录在线影视资源：宅男影视（https://zndy.top/，推荐指数 4 星，简介：想看就看）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "yingshidaquan",
+      "name": "影视大全",
+      "url": "https://yingshidaquan.top/",
+      "category": "online_video",
+      "summary": "在线搜索播放、官解无广。",
+      "summary_short": "在线搜索播放、官解无广",
+      "tags": [
+        "在线影视",
+        "搜索",
+        "无广告"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录在线影视资源：影视大全（https://yingshidaquan.top/，推荐指数 5 星，简介：在线搜索播放、官解无广）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "juzong",
+      "name": "剧踪影院",
+      "url": "https://www.juzong01.me/",
+      "category": "online_video",
+      "summary": "海内外 SVIP 超前更新。",
+      "summary_short": "海内外 SVIP 超前更新",
+      "tags": [
+        "在线影视",
+        "海内外影视",
+        "SVIP"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录在线影视资源：剧踪影院（https://www.juzong01.me/，推荐指数 5 星，简介：海内外 SVIP 超前更新）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "jianyunys",
+      "name": "简云影视",
+      "url": "https://jianyunys.com/",
+      "category": "online_video",
+      "summary": "纯净无广告，1080P 高清秒播。",
+      "summary_short": "纯净无广告/1080P高清秒播",
+      "tags": [
+        "在线影视",
+        "无广告",
+        "1080P",
+        "秒播"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录在线影视资源：简云影视（https://jianyunys.com/，推荐指数 5 星，简介：纯净无广告/1080P高清秒播）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "pianku",
+      "name": "片库",
+      "url": "https://4k01.pianku.online/",
+      "category": "online_video",
+      "summary": "纯净无广告，1080P 高清秒播。",
+      "summary_short": "纯净无广告/1080P高清秒播",
+      "tags": [
+        "在线影视",
+        "无广告",
+        "1080P",
+        "秒播"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录在线影视资源：片库（https://4k01.pianku.online/，推荐指数 5 星，简介：纯净无广告/1080P高清秒播）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "66-dapianwang",
+      "name": "66 大片网",
+      "url": "https://www.77dpw.vip/",
+      "category": "online_video",
+      "summary": "免费电影在线观看。",
+      "summary_short": "免费电影在线观看",
+      "tags": [
+        "在线影视",
+        "电影",
+        "免费"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录在线影视资源：66 大片网（https://www.77dpw.vip/，推荐指数 5 星，简介：免费电影在线观看）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "xhkan",
+      "name": "星河影视",
+      "url": "https://www.xhkan.top/",
+      "category": "online_video",
+      "summary": "高清无广告，支持弹幕。",
+      "summary_short": "高清无广告_弹幕",
+      "tags": [
+        "在线影视",
+        "高清",
+        "无广告",
+        "弹幕"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录在线影视资源：星河影视（https://www.xhkan.top/，推荐指数 5 星，简介：高清无广告_弹幕）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "didahd",
+      "name": "嘀嗒影视",
+      "url": "https://www.didahd.xyz/",
+      "category": "online_video",
+      "summary": "高分电影聚集地，超清秒播。",
+      "summary_short": "高分电影聚集地，超清秒播",
+      "tags": [
+        "在线影视",
+        "电影",
+        "超清",
+        "秒播"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录在线影视资源：嘀嗒影视（https://www.didahd.xyz/，推荐指数 5 星，简介：高分电影聚集地，超清秒播）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "zhuiying",
+      "name": "追影",
+      "url": "https://zhuiying3.cc/",
+      "category": "online_video",
+      "summary": "蓝光高清，无广告免费在线秒播。",
+      "summary_short": "蓝光高清、无广告免费在线秒播",
+      "tags": [
+        "在线影视",
+        "蓝光",
+        "高清",
+        "无广告",
+        "秒播"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录在线影视资源：追影（https://zhuiying3.cc/，推荐指数 5 星，简介：蓝光高清、无广告免费在线秒播）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "wbbb",
+      "name": "歪比巴卜",
+      "url": "https://wbbb1.com/",
+      "category": "online_video",
+      "summary": "高清视频免费在线观看。",
+      "summary_short": "高清视频免费在线观看",
+      "tags": [
+        "在线影视",
+        "高清",
+        "免费"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录在线影视资源：歪比巴卜（https://wbbb1.com/，推荐指数 5 星，简介：高清视频免费在线观看）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "kxyy",
+      "name": "开心影院",
+      "url": "https://www.kxyy1.cc/",
+      "category": "online_video",
+      "summary": "最新电影、热播电视剧。",
+      "summary_short": "最新电影热播电视剧",
+      "tags": [
+        "在线影视",
+        "电影",
+        "电视剧"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录在线影视资源：开心影院（https://www.kxyy1.cc/，推荐指数 5 星，简介：最新电影热播电视剧）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
+      },
+      "featured": true
+    },
+    {
+      "id": "dhvideo",
+      "name": "豆花电影网",
+      "url": "https://dhvideo.cc/",
+      "category": "online_video",
+      "summary": "最新免费电影在线观看。",
+      "summary_short": "最新免费电影_在线观看",
+      "tags": [
+        "在线影视",
+        "电影",
+        "免费"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-29",
+        "method": "manual",
+        "notes": "根据用户补充收录在线影视资源：豆花电影网（https://dhvideo.cc/，推荐指数 5 星，简介：最新免费电影_在线观看）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-29"
       },
       "featured": true
     }
