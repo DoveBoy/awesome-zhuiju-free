@@ -1075,6 +1075,17 @@
       "checked_at": "2026-08-29T13:45:14.104Z",
       "attempts": 1,
       "error": null
+    },
+    {
+      "resource_id": "zip0",
+      "url": "https://zip0.com/",
+      "status": "unknown",
+      "http_status": null,
+      "final_url": null,
+      "response_ms": null,
+      "checked_at": "2026-08-30T01:10:39.645Z",
+      "attempts": 0,
+      "error": "Not checked yet"
     }
   ]
 }

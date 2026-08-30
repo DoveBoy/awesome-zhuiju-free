@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-29",
+  "updated_at": "2026-08-30",
   "records": [
     {
       "id": "verify-20260606-initial",
@@ -814,6 +814,21 @@
       },
       "result": "recommended",
       "notes": "根据用户补充收录开源项目 Bangumi（https://github.com/czy0729/Bangumi），简介为：专门做 ACG 的类豆瓣追番客户端；Star 数来自 GitHub 项目页，仓库更新时间来自提交订阅源。"
+    },
+    {
+      "id": "verify-20260830-zip0",
+      "resource_ids": [
+        "zip0"
+      ],
+      "checked_at": "2026-08-30",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "user submitted"
+      },
+      "result": "pending_review",
+      "notes": "根据用户补充收录在线影视资源：ZIP0（https://zip0.com/，推荐指数 5 星，简介：在线影视搜索与播放）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
     }
   ]
 }

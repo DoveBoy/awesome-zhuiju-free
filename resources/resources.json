@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-08-29",
+  "updated_at": "2026-08-30",
   "resources": [
     {
       "id": "no-video",
@@ -5174,6 +5174,50 @@
         "stars": 5890,
         "pushed_at": "2026-08-28T19:45:48Z"
       }
+    },
+    {
+      "id": "zip0",
+      "name": "ZIP0",
+      "url": "https://zip0.com/",
+      "category": "online_video",
+      "summary": "在线影视搜索与播放。",
+      "summary_short": "在线影视搜索与播放",
+      "tags": [
+        "在线影视",
+        "搜索",
+        "在线播放"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 5,
+        "speed": 5,
+        "clean": 5,
+        "stable": 5,
+        "ease": 5
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-08-30",
+        "method": "manual",
+        "notes": "根据用户补充收录在线影视资源：ZIP0（https://zip0.com/，推荐指数 5 星，简介：在线影视搜索与播放）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      },
+      "source": {
+        "submitted_by": "maintainer",
+        "added_at": "2026-08-30"
+      },
+      "featured": true
     }
   ]
 }
