@@ -25,7 +25,7 @@
   <!-- resource-count:start -->
 <a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-114_个资源-00A98F?style=flat-square" alt="已收录 114 个资源" height="24"></a>
 <!-- resource-count:end -->
-  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--09--11-00B4D8?style=flat-square" alt="检测时间 2026-09-11" height="24"></a>
+  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--09--12-00B4D8?style=flat-square" alt="检测时间 2026-09-12" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/forks"><img src="https://img.shields.io/github/forks/laoma2053/awesome-zhuiju-free?style=flat-square&label=Forks&color=38BDF8" alt="GitHub Forks" height="24"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/许可证-CC_BY_4.0-6F42C1?style=flat-square" alt="许可证 CC BY 4.0" height="24"></a>
@@ -64,7 +64,7 @@
 
 <!-- featured-resources:start -->
 <p align="center">
-  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-49-0A66C2?style=flat-square" alt="在线影视"></a>
+  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-45-0A66C2?style=flat-square" alt="在线影视"></a>
   <a href="#影视app"><img src="https://img.shields.io/badge/影视APP-3-00A98F?style=flat-square" alt="影视APP"></a>
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-4285F4?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-16-F7B801?style=flat-square" alt="磁力& BT"></a>
@@ -93,8 +93,6 @@
 | --- | --- | :---: | :---: | :---: |
 | [ZIP0](<https://zip0.com/?r=KBDIG8>) | 在线影视搜索与播放 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:zip0 -->🟢&#8288;可&#8288;访问<!-- /availability:zip0 --> | <!-- availability-date:zip0 -->2026&#8209;09&#8209;12<!-- /availability-date:zip0 --> |
 | [剧OK](<https://juok3.top/>) | 最新电视剧、最新电影 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:juok -->🟡&#8288;访问&#8288;受限<!-- /availability:juok --> | <!-- availability-date:juok -->2026&#8209;09&#8209;12<!-- /availability-date:juok --> |
-| [蛋蛋奇](<https://www.dandanqi.cc/>) | 最新电视剧/电影/无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:dandanqi -->🔴&#8288;无法&#8288;访问<!-- /availability:dandanqi --> | <!-- availability-date:dandanqi -->2026&#8209;09&#8209;12<!-- /availability-date:dandanqi --> |
-| [影视大全](<https://yingshidaquan.top/>) | 在线搜索播放、官解无广 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yingshidaquan -->🔴&#8288;无法&#8288;访问<!-- /availability:yingshidaquan --> | <!-- availability-date:yingshidaquan -->2026&#8209;09&#8209;12<!-- /availability-date:yingshidaquan --> |
 | [剧踪影院](<https://www.juzong01.me/>) | 海内外 SVIP 超前更新 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:juzong -->🟢&#8288;可&#8288;访问<!-- /availability:juzong --> | <!-- availability-date:juzong -->2026&#8209;09&#8209;12<!-- /availability-date:juzong --> |
 | [简云影视](<https://jianyunys.com/>) | 纯净无广告/1080P高清秒播 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:jianyunys -->🟢&#8288;可&#8288;访问<!-- /availability:jianyunys --> | <!-- availability-date:jianyunys -->2026&#8209;09&#8209;12<!-- /availability-date:jianyunys --> |
 | [片库](<https://4k01.pianku.online/>) | 纯净无广告/1080P高清秒播 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:pianku -->🟢&#8288;可&#8288;访问<!-- /availability:pianku --> | <!-- availability-date:pianku -->2026&#8209;09&#8209;12<!-- /availability-date:pianku --> |
@@ -118,7 +116,6 @@
 | [黑夜影院](<https://darkvod.com>) | 综合影视/资源多/无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:darkvod -->🟡&#8288;访问&#8288;受限<!-- /availability:darkvod --> | <!-- availability-date:darkvod -->2026&#8209;09&#8209;12<!-- /availability-date:darkvod --> |
 | [奈飞工厂](<https://www.netflixgc.com>) | 最新美剧，无广告（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:netflixgc -->🟡&#8288;访问&#8288;受限<!-- /availability:netflixgc --> | <!-- availability-date:netflixgc -->2026&#8209;09&#8209;12<!-- /availability-date:netflixgc --> |
 | [泥视频](<https://www.nivod.vip>) | 热门国剧，更新快，无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:nivod -->🟢&#8288;可&#8288;访问<!-- /availability:nivod --> | <!-- availability-date:nivod -->2026&#8209;09&#8209;12<!-- /availability-date:nivod --> |
-| [PPnix](<https://www.ppnix.com/cn/>) | 热门在线影视，速度快/纯净/无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ppnix -->🔴&#8288;无法&#8288;访问<!-- /availability:ppnix --> | <!-- availability-date:ppnix -->2026&#8209;09&#8209;12<!-- /availability-date:ppnix --> |
 | [多瑙影视](<https://www.duonaovod.com>) | 海外华人在线影院（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:duonao-video -->🔴&#8288;无法&#8288;访问<!-- /availability:duonao-video --> | <!-- availability-date:duonao-video -->2026&#8209;09&#8209;12<!-- /availability-date:duonao-video --> |
 | [白嫖者联盟](<https://www.tdgo.shop>) | 热门热播剧，无广告速度快（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:tdgo -->🟢&#8288;可&#8288;访问<!-- /availability:tdgo --> | <!-- availability-date:tdgo -->2026&#8209;09&#8209;12<!-- /availability-date:tdgo --> |
 | [爱电影](<https://kuhh4jo.com>) | 最新热门电影/电视剧（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ai-movie -->🟢&#8288;可&#8288;访问<!-- /availability:ai-movie --> | <!-- availability-date:ai-movie -->2026&#8209;09&#8209;12<!-- /availability-date:ai-movie --> |
@@ -127,7 +124,6 @@
 | [注视影视](<https://gaze.red/>) | 国内海外影视剧资源（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:gaze-red -->🟡&#8288;访问&#8288;受限<!-- /availability:gaze-red --> | <!-- availability-date:gaze-red -->2026&#8209;09&#8209;12<!-- /availability-date:gaze-red --> |
 | [宅男影视](<https://zndy.top/>) | 想看就看 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:zndy -->🟢&#8288;可&#8288;访问<!-- /availability:zndy --> | <!-- availability-date:zndy -->2026&#8209;09&#8209;12<!-- /availability-date:zndy --> |
 | [奈飞工厂](<https://naifei.fyi/>) | 国区可访问，资源无广 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:naifei-fyi-19 -->🟢&#8288;可&#8288;访问<!-- /availability:naifei-fyi-19 --> | <!-- availability-date:naifei-fyi-19 -->2026&#8209;09&#8209;12<!-- /availability-date:naifei-fyi-19 --> |
-| [光速影视](<https://www.yingshiso.link/>) | 作为备选，纯净无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:guangsu-yingshi -->🔴&#8288;无法&#8288;访问<!-- /availability:guangsu-yingshi --> | <!-- availability-date:guangsu-yingshi -->2026&#8209;09&#8209;12<!-- /availability-date:guangsu-yingshi --> |
 | [布布追剧](<https://bubuzhuiju.com>) | 速度快，有广告能接受 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:bubu-zhuiju -->🟢&#8288;可&#8288;访问<!-- /availability:bubu-zhuiju --> | <!-- availability-date:bubu-zhuiju -->2026&#8209;09&#8209;12<!-- /availability-date:bubu-zhuiju --> |
 | [影猫仓库](<https://www.ymck.pro>) | 热门影视剧，有广告能接受 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:yingmao-cangku -->🟡&#8288;访问&#8288;受限<!-- /availability:yingmao-cangku --> | <!-- availability-date:yingmao-cangku -->2026&#8209;09&#8209;12<!-- /availability-date:yingmao-cangku --> |
 | [独播库](<https://www.dbku.tv>) | 页面无广告，纯净 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:dbku -->🟢&#8288;可&#8288;访问<!-- /availability:dbku --> | <!-- availability-date:dbku -->2026&#8209;09&#8209;12<!-- /availability-date:dbku --> |

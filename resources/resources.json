@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-09-07",
+  "updated_at": "2026-09-12",
   "resources": [
     {
       "id": "no-video",
@@ -963,16 +963,16 @@
         "payment": "unknown"
       },
       "verification": {
-        "status": "caution",
-        "last_checked": "2026-07-04",
+        "status": "removed",
+        "last_checked": "2026-09-12",
         "method": "manual",
-        "notes": "根据截图信息收录：推荐指数 5 星，测评备注为热门在线影视，速度快/纯净/无广告；截图状态不作为本项目状态依据，后续由自动检测刷新可访问状态。"
+        "notes": "根据维护者复核，网站已无法访问，于 2026-09-12 从精选在线影视列表下架。保留资源记录与历史验证信息。"
       },
       "source": {
         "submitted_by": "maintainer",
         "added_at": "2026-07-04"
       },
-      "featured": true
+      "featured": false
     },
     {
       "id": "dbku",
@@ -1230,16 +1230,16 @@
         "payment": "unknown"
       },
       "verification": {
-        "status": "caution",
-        "last_checked": "2026-07-18",
+        "status": "removed",
+        "last_checked": "2026-09-12",
         "method": "manual",
-        "notes": "根据用户补充收录：推荐指数 4 星，简介为作为备选，纯净无广告；提交状态不作为本项目状态依据，后续由自动检测刷新可访问状态。"
+        "notes": "根据维护者复核，网站已无法访问，于 2026-09-12 从精选在线影视列表下架。保留资源记录与历史验证信息。"
       },
       "source": {
         "submitted_by": "maintainer",
         "added_at": "2026-07-18"
       },
-      "featured": true
+      "featured": false
     },
     {
       "id": "haohaokan",
@@ -4580,16 +4580,16 @@
         "payment": "unknown"
       },
       "verification": {
-        "status": "caution",
-        "last_checked": "2026-08-29",
+        "status": "removed",
+        "last_checked": "2026-09-12",
         "method": "manual",
-        "notes": "根据用户补充收录在线影视资源：蛋蛋奇（https://www.dandanqi.cc/，推荐指数 5 星，简介：最新电视剧/电影/无广告）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+        "notes": "根据维护者复核，网站已无法访问，于 2026-09-12 从精选在线影视列表下架。保留资源记录与历史验证信息。"
       },
       "source": {
         "submitted_by": "maintainer",
         "added_at": "2026-08-29"
       },
-      "featured": true
+      "featured": false
     },
     {
       "id": "zndy",
@@ -4666,16 +4666,16 @@
         "payment": "unknown"
       },
       "verification": {
-        "status": "caution",
-        "last_checked": "2026-08-29",
+        "status": "removed",
+        "last_checked": "2026-09-12",
         "method": "manual",
-        "notes": "根据用户补充收录在线影视资源：影视大全（https://yingshidaquan.top/，推荐指数 5 星，简介：在线搜索播放、官解无广）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+        "notes": "根据维护者复核，网站已无法访问，于 2026-09-12 从精选在线影视列表下架。保留资源记录与历史验证信息。"
       },
       "source": {
         "submitted_by": "maintainer",
         "added_at": "2026-08-29"
       },
-      "featured": true
+      "featured": false
     },
     {
       "id": "juzong",

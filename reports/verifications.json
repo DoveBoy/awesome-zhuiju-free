@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-06",
+  "updated_at": "2026-09-12",
   "records": [
     {
       "id": "verify-20260606-initial",
@@ -844,6 +844,24 @@
       },
       "result": "pending_review",
       "notes": "根据用户补充将 ZIP0 链接从 https://zip0.com/ 更新为 https://zip0.com/?r=KBDIG8；后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+    },
+    {
+      "id": "verify-20260912-online-video-removals",
+      "resource_ids": [
+        "dandanqi",
+        "yingshidaquan",
+        "ppnix",
+        "guangsu-yingshi"
+      ],
+      "checked_at": "2026-09-12",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "maintainer reported"
+      },
+      "result": "removed",
+      "notes": "维护者确认蛋蛋奇、影视大全、PPnix 和光速影视均已无法访问；从精选在线影视列表下架，并保留资源记录与历史验证信息。"
     }
   ]
 }

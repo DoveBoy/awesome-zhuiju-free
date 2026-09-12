@@ -241,17 +241,6 @@
       "error": null
     },
     {
-      "resource_id": "ppnix",
-      "url": "https://www.ppnix.com/cn/",
-      "status": "unreachable",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": 30002,
-      "checked_at": "2026-09-12T01:23:37.638Z",
-      "attempts": 2,
-      "error": "The operation was aborted due to timeout"
-    },
-    {
       "resource_id": "dbku",
       "url": "https://www.dbku.tv",
       "status": "reachable",
@@ -305,17 +294,6 @@
       "checked_at": "2026-09-12T01:23:38.007Z",
       "attempts": 2,
       "error": null
-    },
-    {
-      "resource_id": "guangsu-yingshi",
-      "url": "https://www.yingshiso.link/",
-      "status": "unreachable",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": 20848,
-      "checked_at": "2026-09-12T01:23:38.385Z",
-      "attempts": 2,
-      "error": "fetch failed"
     },
     {
       "resource_id": "haohaokan",
@@ -934,17 +912,6 @@
       "error": null
     },
     {
-      "resource_id": "dandanqi",
-      "url": "https://www.dandanqi.cc/",
-      "status": "unreachable",
-      "http_status": 404,
-      "final_url": "https://www.dandanqi.cc/",
-      "response_ms": 513,
-      "checked_at": "2026-09-12T01:24:00.222Z",
-      "attempts": 1,
-      "error": null
-    },
-    {
       "resource_id": "zndy",
       "url": "https://zndy.top/",
       "status": "reachable",
@@ -954,17 +921,6 @@
       "checked_at": "2026-09-12T01:24:00.296Z",
       "attempts": 1,
       "error": null
-    },
-    {
-      "resource_id": "yingshidaquan",
-      "url": "https://yingshidaquan.top/",
-      "status": "unreachable",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": 1220,
-      "checked_at": "2026-09-12T01:24:00.735Z",
-      "attempts": 2,
-      "error": "fetch failed"
     },
     {
       "resource_id": "juzong",
