@@ -862,6 +862,21 @@
       },
       "result": "removed",
       "notes": "维护者确认蛋蛋奇、影视大全、PPnix 和光速影视均已无法访问；从精选在线影视列表下架，并保留资源记录与历史验证信息。"
+    },
+    {
+      "id": "verify-20260912-duonao-video-removal",
+      "resource_ids": [
+        "duonao-video"
+      ],
+      "checked_at": "2026-09-12",
+      "checked_by": "maintainer",
+      "method": "manual",
+      "environment": {
+        "region": "unspecified",
+        "network": "maintainer reported"
+      },
+      "result": "removed",
+      "notes": "维护者确认多瑙影视已无法访问；从精选在线影视列表下架，并保留资源记录与历史验证信息。"
     }
   ]
 }

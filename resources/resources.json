@@ -215,16 +215,16 @@
         "payment": "unknown"
       },
       "verification": {
-        "status": "caution",
-        "last_checked": "2026-06-19",
+        "status": "removed",
+        "last_checked": "2026-09-12",
         "method": "manual",
-        "notes": "根据截图信息收录：推荐指数 5 星，测评备注为海外华人在线影院，需梯子；截图状态不作为本项目状态依据，后续需要补充访问速度、广告干扰、版权和安全风险验证。"
+        "notes": "维护者确认网站已无法访问；从精选在线影视列表下架，并保留资源记录与历史验证信息。"
       },
       "source": {
         "submitted_by": "maintainer",
         "added_at": "2026-06-19"
       },
-      "featured": true
+      "featured": false
     },
     {
       "id": "tdgo",

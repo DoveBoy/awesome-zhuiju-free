@@ -64,7 +64,7 @@
 
 <!-- featured-resources:start -->
 <p align="center">
-  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-45-0A66C2?style=flat-square" alt="在线影视"></a>
+  <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-44-0A66C2?style=flat-square" alt="在线影视"></a>
   <a href="#影视app"><img src="https://img.shields.io/badge/影视APP-3-00A98F?style=flat-square" alt="影视APP"></a>
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-4285F4?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-16-F7B801?style=flat-square" alt="磁力& BT"></a>
@@ -116,7 +116,6 @@
 | [黑夜影院](<https://darkvod.com>) | 综合影视/资源多/无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:darkvod -->🟡&#8288;访问&#8288;受限<!-- /availability:darkvod --> | <!-- availability-date:darkvod -->2026&#8209;09&#8209;12<!-- /availability-date:darkvod --> |
 | [奈飞工厂](<https://www.netflixgc.com>) | 最新美剧，无广告（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:netflixgc -->🟡&#8288;访问&#8288;受限<!-- /availability:netflixgc --> | <!-- availability-date:netflixgc -->2026&#8209;09&#8209;12<!-- /availability-date:netflixgc --> |
 | [泥视频](<https://www.nivod.vip>) | 热门国剧，更新快，无广告 | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:nivod -->🟢&#8288;可&#8288;访问<!-- /availability:nivod --> | <!-- availability-date:nivod -->2026&#8209;09&#8209;12<!-- /availability-date:nivod --> |
-| [多瑙影视](<https://www.duonaovod.com>) | 海外华人在线影院（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:duonao-video -->🔴&#8288;无法&#8288;访问<!-- /availability:duonao-video --> | <!-- availability-date:duonao-video -->2026&#8209;09&#8209;12<!-- /availability-date:duonao-video --> |
 | [白嫖者联盟](<https://www.tdgo.shop>) | 热门热播剧，无广告速度快（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:tdgo -->🟢&#8288;可&#8288;访问<!-- /availability:tdgo --> | <!-- availability-date:tdgo -->2026&#8209;09&#8209;12<!-- /availability-date:tdgo --> |
 | [爱电影](<https://kuhh4jo.com>) | 最新热门电影/电视剧（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:ai-movie -->🟢&#8288;可&#8288;访问<!-- /availability:ai-movie --> | <!-- availability-date:ai-movie -->2026&#8209;09&#8209;12<!-- /availability-date:ai-movie --> |
 | [金牌影视](<https://www.vv3nwjk.com>) | 全网VIP资源（需梯子） | 🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟 | <!-- availability:jpyy -->🔴&#8288;无法&#8288;访问<!-- /availability:jpyy --> | <!-- availability-date:jpyy -->2026&#8209;09&#8209;12<!-- /availability-date:jpyy --> |

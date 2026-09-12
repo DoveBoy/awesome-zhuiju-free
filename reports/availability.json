@@ -54,17 +54,6 @@
       "error": null
     },
     {
-      "resource_id": "duonao-video",
-      "url": "https://www.duonaovod.com",
-      "status": "unreachable",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": 3011,
-      "checked_at": "2026-09-12T06:39:36.257Z",
-      "attempts": 2,
-      "error": "fetch failed"
-    },
-    {
       "resource_id": "tdgo",
       "url": "https://www.tdgo.shop",
       "status": "reachable",
