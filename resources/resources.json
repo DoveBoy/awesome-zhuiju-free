@@ -5218,6 +5218,48 @@
         "added_at": "2026-08-30"
       },
       "featured": true
+    },
+    {
+      "id": "aipan-me-25",
+      "name": "爱盼",
+      "url": "https://www.aipan.me/",
+      "category": "online_video",
+      "summary": "4K夸克网盘/光鸭云盘/磁力影视资源聚合站",
+      "summary_short": "4K夸克网盘/光鸭云盘/磁力影视资源聚合站",
+      "tags": [
+        "在线影视"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-09-05",
+        "method": "manual",
+        "notes": "维护者 @laoma2053 已通过 ok 确认收录。 测试信息：2026-09-05，中国大陆。 提交者风险说明：无广告、无弹窗、无诱导下载；免登录、无支付环节；资源链接聚合自公开网络，本站不存储文件，版权风险与同类网盘搜索站相同。利益披露：提交人为站点运营者本人。"
+      },
+      "source": {
+        "submitted_by": "@unilei",
+        "added_at": "2026-09-12"
+      },
+      "featured": true
     }
   ]
 }
